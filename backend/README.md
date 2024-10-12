@@ -12,11 +12,14 @@ Make sure you have the following installed on your machine:
 
 ## Installation
 
-1. Clone the repository:
+1. Run Application and Tests:
 
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    pip3 install -r requirements.txt
    cd app
    uvicorn main:app --reload
+
+   #######
+   pytest
 
