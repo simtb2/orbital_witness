@@ -11,6 +11,10 @@ A full-stack application built with **FastAPI** for the backend and **React** fo
 - Bar chart displaying usage statistics
 - RESTful API for data retrieval
 
+![Alt text](./usage_json.png)
+![Alt text](./usage_dashboard.png)
+
+
 ## Technologies
 
 - **Backend**: FastAPI, Uvicorn
